@@ -2,5 +2,5 @@
 int main(){
     float x;
     scanf("%f",&x);
-    printf("You entered: %0.4f",x);
+    printf("You entered: %0.4f\n",x);
 }
