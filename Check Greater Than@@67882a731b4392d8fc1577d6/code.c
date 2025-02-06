@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
     int a,b;
-    printf("True");
+    printf("%d",a>b);
 }
