@@ -3,8 +3,8 @@ int main(){
     int num;
     scanf("%d",num);
     int mask= 1 << 32;
-    if(num & 1){
-        printf("Set");
+    if(num & mask){
+        printf("Set\n");
     }
     else{
         printf("Not Set");
