@@ -4,4 +4,5 @@ int main(){
     scanf("%d",&value);
     int result= -value;
     printf("%d\n",result);
+    return 0;
 }
