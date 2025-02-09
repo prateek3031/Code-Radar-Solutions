@@ -3,7 +3,7 @@ int main(){
     int num;
     scanf("%d",num);
     int mask= 1 << 32;
-    if(num & mask){
+    if(num & 1){
         printf("Set");
     }
     else{
