@@ -4,4 +4,5 @@ int main(){
     scanf("%d %d",&number,&n);
     number &=-(1 < n);
     printf("%d\n",number);
+    return 0;
 }
