@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int a;
-    scanf("%d",&n);
+    scanf("%d",&a);
     if(n%5 == 0 && n%11 == 0){
         printf("Divisible");
     }
