@@ -13,6 +13,6 @@ int main(){
         break;
         case '/' : printf("%d\n",a/b);
         break;
-        default : printf("Zero"),
-            }
+        default : printf("Zero");
+        }
 }
